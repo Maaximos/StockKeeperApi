@@ -1,0 +1,12 @@
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\bin\Debug\net6.0\StockKeeperApi.Infra.Email.deps.json
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\bin\Debug\net6.0\StockKeeperApi.Infra.Email.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\bin\Debug\net6.0\StockKeeperApi.Infra.Email.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\StockKeeperApi.Infra.Email.csproj.AssemblyReference.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\StockKeeperApi.Infra.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\StockKeeperApi.Infra.Email.AssemblyInfoInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\StockKeeperApi.Infra.Email.AssemblyInfo.cs
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\StockKeeperApi.Infra.Email.csproj.CoreCompileInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\StockKeeperApi.Infra.Email.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\refint\StockKeeperApi.Infra.Email.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\StockKeeperApi.Infra.Email.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Email\obj\Debug\net6.0\ref\StockKeeperApi.Infra.Email.dll

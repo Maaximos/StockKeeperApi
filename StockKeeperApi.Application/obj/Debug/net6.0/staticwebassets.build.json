@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SxTy5MbGtp14KfjBcdaeFcxbEfB+k2HAipWlGNOTojc=",
+  "Source": "StockKeeperApi",
+  "BasePath": "_content/StockKeeperApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

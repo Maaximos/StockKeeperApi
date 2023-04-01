@@ -1,0 +1,12 @@
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\bin\Debug\net6.0\StockKepperApi.Application.deps.json
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\bin\Debug\net6.0\StockKepperApi.Application.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\bin\Debug\net6.0\StockKepperApi.Application.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\StockKepperApi.Application.csproj.AssemblyReference.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\StockKepperApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\StockKepperApi.Application.AssemblyInfoInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\StockKepperApi.Application.AssemblyInfo.cs
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\StockKepperApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\StockKepperApi.Application.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\refint\StockKepperApi.Application.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\StockKepperApi.Application.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKepperApi.Application\obj\Debug\net6.0\ref\StockKepperApi.Application.dll

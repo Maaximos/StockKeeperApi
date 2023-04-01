@@ -1,0 +1,12 @@
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\bin\Debug\net6.0\StockKeeperApi.Infra.Auth.deps.json
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\bin\Debug\net6.0\StockKeeperApi.Infra.Auth.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\bin\Debug\net6.0\StockKeeperApi.Infra.Auth.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\StockKeeperApi.Infra.Auth.csproj.AssemblyReference.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\StockKeeperApi.Infra.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\StockKeeperApi.Infra.Auth.AssemblyInfoInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\StockKeeperApi.Infra.Auth.AssemblyInfo.cs
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\StockKeeperApi.Infra.Auth.csproj.CoreCompileInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\StockKeeperApi.Infra.Auth.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\refint\StockKeeperApi.Infra.Auth.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\StockKeeperApi.Infra.Auth.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Auth\obj\Debug\net6.0\ref\StockKeeperApi.Infra.Auth.dll

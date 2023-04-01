@@ -1,0 +1,15 @@
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\bin\Debug\net6.0\StockKeeperApi.Infra.Data.deps.json
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\bin\Debug\net6.0\StockKeeperApi.Infra.Data.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\bin\Debug\net6.0\StockKeeperApi.Infra.Data.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.AssemblyInfo.cs
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\refint\StockKeeperApi.Infra.Data.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\ref\StockKeeperApi.Infra.Data.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\bin\Debug\net6.0\StockKeeperApi.Domain.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\bin\Debug\net6.0\StockKeeperApi.Domain.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Infra.Data\obj\Debug\net6.0\StockKeeperApi.Infra.Data.csproj.CopyComplete

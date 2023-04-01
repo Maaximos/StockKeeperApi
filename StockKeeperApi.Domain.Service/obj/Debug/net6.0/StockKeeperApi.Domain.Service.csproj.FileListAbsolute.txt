@@ -1,0 +1,12 @@
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\bin\Debug\net6.0\StockKeeperApi.Domain.Service.deps.json
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\bin\Debug\net6.0\StockKeeperApi.Domain.Service.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\bin\Debug\net6.0\StockKeeperApi.Domain.Service.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\StockKeeperApi.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\StockKeeperApi.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\StockKeeperApi.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\StockKeeperApi.Domain.Service.AssemblyInfo.cs
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\StockKeeperApi.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\StockKeeperApi.Domain.Service.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\refint\StockKeeperApi.Domain.Service.dll
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\StockKeeperApi.Domain.Service.pdb
+C:\Users\asaco\source\repos\StockKeeperApi\StockKeeperApi.Domain.Service\obj\Debug\net6.0\ref\StockKeeperApi.Domain.Service.dll
